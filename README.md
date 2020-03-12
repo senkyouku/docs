@@ -2,8 +2,19 @@
 - 中
   - 现货
     - 更新日志
+    - 行情接口
+      - 获取K线
+      - 获取深度
+      - 获取最新行情
   - 永续
     - 更新日志
+    - 行情接口
+      - 获取K线
+      - 获取深度
+      - 获取最新行情
+    - 资金接口
+    - 持仓接口
+      
 - en
   - Spot  
     - Change Log
@@ -11,7 +22,7 @@
     - Change Log
 
 - Api 使用
-    -Introduction
+    - Introduction
         - Fee structure   费率
         - Rate limit          限频
     - Quick start
